@@ -120,12 +120,12 @@ padding-right: 5px;
 
 /* live call section end */
 
-.support-and-contract{
-    background-color: rgb(229, 225, 225);
+.live-support{
+    background-color: #e5e1e1;
     margin-top: 60px;
     padding-top: 40px;
 }
-.support-and-contract > h1{
+.live-support > h1{
     font-size: 45px;
     text-align: center;
     color: #F15B22;
