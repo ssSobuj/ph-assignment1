@@ -112,7 +112,57 @@ padding-right: 5px;
     background: #ffffff;
     border-radius: 5px;
     border: 0;
-    color: rgb(101, 102, 48);
+    color: #F15B22;;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* live call section end */
+.support-and-contract{
+    background-color: rgb(229, 225, 225);
+    margin-top: 60px;
+    padding-top: 40px;
+}
+.support-and-contract > h1{
+    font-size: 45px;
+    text-align: center;
+    color: #F15B22;
+}
+.contact-info{
+    display: flex;
+    gap: 60px;
+    width: 70%;
+    margin: 30px auto;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact-image, .contact-form{
+    width: 50%;
+}
+.contact-image img{
+    width: 100%;
+    border-radius: 5px;
+}
+.contact-form h2{
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.contact-form input, textarea{
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 10px;
+}
+.contact-form .primery-btn{
+    padding: 15px 25px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    color: #fff;
     font-weight: 600;
     font-size: 20px;
     margin-top: 20px;
